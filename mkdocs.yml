@@ -1,4 +1,5 @@
 site_name: Test
+extra_css: [extra.css]
 nav:
     - Home: index.md
     - About: about.md

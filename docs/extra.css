@@ -1,3 +1,30 @@
 h1 {
-  color: red;
+      color: sandybrown;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+h2 {
+  color: crimson;
+}
+
+body {
+  padding-top: 100px;
+  font-family: "Meiryo", "Segoe WPC", "Segoe UI", "SFUIText-Light", "HelveticaNeue-Light", sans-serif, "Droid Sans Fallback";
+  font-size: 14px;
+  padding: 0 12px;
+  line-height: 22px;
+  background: none;
+  background-image: none;
+  margin-top: 55px;
+}
+
+blockquote {
+  font-family: "Meiryo", "Segoe WPC", "Segoe UI", "SFUIText-Light", "HelveticaNeue-Light", sans-serif, "Droid Sans Fallback";
+margin: 0 7px 0 5px;
+padding: 0 16px 0 10px;
+  border-left: 5px solid;
+  background: rgba(26, 114, 77, 0.3);
+  border-color: rgba(200, 128, 20, 1);
+  
 }
